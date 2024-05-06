@@ -1,0 +1,9 @@
+name: QuickSand
+version: '${version}'
+main: space.itoncek.quicksand.QuickSand
+api-version: '1.20'
+prefix: QS
+load: STARTUP
+authors: [IToncek]
+description: Sands of times minigame runtime
+website: https://itoncek.space/
